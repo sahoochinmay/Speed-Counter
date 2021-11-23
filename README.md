@@ -3,6 +3,8 @@ A simple speed counting page using basic javascript.
 
 ## [Checkout Here](https://sahoochinmay.github.io/Speed-Counter/)
 
+### [More Details on Behance](https://www.behance.net/gallery/131816569/Speed-Counter-speed-counting-using-basic-javascript)
+
 
 ### Connect with me:
 
